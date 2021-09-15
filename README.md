@@ -7,7 +7,7 @@ Provided here is a PDF file of the board if you wanted to just print it out, and
 
 Have I missed something ? If so, please let me know.
 
-![PCB examples](https://github.com/GOTO-GOSUB/Fritzing-USB-Connectors-Template/blob/a8a189bc5a5b2c21239e83616c0e57857e5d7351/Images/Fritzing%20USB%20Parts%20(PCB%20Render).png)
+![PCB examples](https://github.com/GOTO-GOSUB/Fritzing-USB-Connectors-Template/blob/635fe630e6cc74b64a9c82d1859c0d82287d32d9/Images/USB%20Identification%20Aid%20Fritzing%20Parts%20v1.2%20PCB%20Render.png)
 
 At some point I would like to do the same for the community submitted parts - if you know of one please tell me about it. I would like to add it to these so long as the source is traceable so that I can add a link to the part.
 
